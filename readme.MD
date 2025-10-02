@@ -1,6 +1,6 @@
-![Teste Analytics - Alan Borges dos Reis](/images/titulo.png)
+# Teste Analytics - Alan Borges dos Reis
 
-# Estrutura do projeto
+## Estrutura do projeto
 - **data/**: CSVs gerados
   - `data_raw.csv`
   - `data_clean.csv`
