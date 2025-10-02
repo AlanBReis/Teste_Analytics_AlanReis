@@ -22,8 +22,7 @@
 1. **Criar e ativar ambiente virtual**:
 
 ```bash
-python -m venv venv
-# Ativar o ambiente
+python -m venv venv # Ativar o ambiente
 venv\Scripts\activate  # Windows
 source venv/bin/activate # Linux/Mac
 ```
@@ -37,8 +36,8 @@ pip install -r requirements.txt
 ## 1. Limpeza e Análise de Dados de Vendas
 1. **Executar os scripts na ordem:**
 ```bash
-python scripts/gerar_dataset.py        # cria data/data_raw.csv
-python scripts/limpeza_dataset.py      # cria data/data_clean.csv
+python scripts/gerar_dataset.py        # cria dataset aleatorio/data_raw.csv
+python scripts/limpeza_dataset.py      # faz a limpeza no dataset/data_clean.csv
 python scripts/analise_vendas.py       # cálculos de vendas e produto mais vendido
 ```
 
