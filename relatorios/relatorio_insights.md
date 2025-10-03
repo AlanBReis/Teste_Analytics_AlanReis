@@ -1,4 +1,5 @@
 Relatório de Insights
+
 Insight 1 — Produtos
 
 Os itens que mais geram receita são da categoria eletrônicos e periféricos como celular, notebook e acessórios gamers. Isso mostra que a maior parte das vendas está concentrada em poucas categorias. Uma ação interessante seria manter foco em estoque e campanhas nesses produtos.
