@@ -1,10 +1,8 @@
 import sqlite3
 import pandas as pd
 
-# Conecta ao banco de dados SQLite que você criou
 conn = sqlite3.connect("vendas.db")
 
-# --- Consulta 1: Top Produtos ---
 query_1 = """
 SELECT
     Produto,
@@ -27,7 +25,6 @@ print("======================================================")
 print(resultado_1)
 
 
-# --- Consulta 2: Produto Menos Vendido (Jun/2024) ---
 query_2 = """
 SELECT
     Produto,
@@ -50,5 +47,4 @@ print("Resultado da Consulta 2 (Produto que Menos Vendeu em Jun/2024):")
 print("======================================================")
 print(resultado_2)
 
-# Fechar a conexão
 conn.close()
