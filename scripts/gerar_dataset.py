@@ -28,11 +28,11 @@ def random_date(start, end):
 
 # Período definido
 start_date = datetime(2023, 1, 1)
-end_date = datetime(2023, 12, 31)
+end_date = datetime(2025, 12, 31)
 
 # Criando registros
 dados = []
-for i in range(1, 101):
+for i in range(1, 301):
     produto, categoria = random.choice(produtos)
     quantidade = random.randint(1, 5)
     preco_unitario = round(random.uniform(30, 5000), 2)

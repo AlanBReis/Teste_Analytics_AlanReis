@@ -1,101 +1,301 @@
 ID,Data,Produto,Categoria,Quantidade,Preço
-1,2023-02-20,Smartphone Samsung,Eletrônicos,2,4049.51
-2,2023-12-23,Livro Python,Livros,2,132.66
-3,2023-04-27,Livro Python,Livros,1,2062.07
-4,2023-05-17,Smartphone Samsung,Eletrônicos,5,388.52
-5,2023-08-29,Smartphone Samsung,Eletrônicos,1,2514.35
-6,2023-05-27,Tênis Nike,Vestuário,4,2574.49
-7,2023-10-15,Cadeira Gamer,Móveis,5,1978.04
-8,2023-09-19,Smartphone Samsung,Eletrônicos,2,608.75
-9,2023-09-04,Fone de Ouvido JBL,Acessórios,2,2639.48
-10,2023-06-24,Monitor LG,Eletrônicos,5,3313.25
-11,2023-10-27,Mouse Logitech,Acessórios,3,3479.33
-12,2023-10-25,Mouse Logitech,Acessórios,4,3249.33
-13,2023-12-18,Monitor LG,Eletrônicos,4,350.4
-14,2023-08-01,Copo Térmico,Utilidades,1,1511.6
-15,2023-04-05,Smartphone Samsung,Eletrônicos,5,3044.27
-16,2023-04-14,Mouse Logitech,Acessórios,2,4940.89
-17,2023-11-25,Teclado Mecânico,Acessórios,3,2016.57
-18,2023-12-02,Cadeira Gamer,Móveis,5,396.23
-19,2023-05-05,Cadeira Gamer,Móveis,3,2349.16
-20,2023-05-22,Tênis Nike,Vestuário,2,3773.44
-21,2023-11-16,Cadeira Gamer,Móveis,4,496.33
-22,2023-07-24,Copo Térmico,Utilidades,2,2956.31
-23,2023-11-14,Fone de Ouvido JBL,Acessórios,3,1731.92
-24,2023-07-06,Livro Python,Livros,2,913.77
-25,2023-01-21,Copo Térmico,Utilidades,2,3775.63
-26,2023-06-29,Smartphone Samsung,Eletrônicos,2,3056.35
-27,2023-02-02,Tênis Nike,Vestuário,5,671.72
-28,2023-01-09,Notebook Dell,Eletrônicos,2,1782.08
-29,2023-10-04,Smartphone Samsung,Eletrônicos,2,1032.45
-30,2023-07-01,Fone de Ouvido JBL,Acessórios,1,2151.34
-31,2023-07-31,Tênis Nike,Vestuário,1,473.94
-32,2023-10-25,Tênis Nike,Vestuário,5,3813.58
-33,2023-05-11,Smartphone Samsung,Eletrônicos,4,4160.41
-34,2023-02-10,Mouse Logitech,Acessórios,4,2969.61
-35,2023-05-18,Notebook Dell,Eletrônicos,5,1686.83
-36,2023-10-15,Livro Python,Livros,3,2416.25
-37,2023-02-10,Tênis Nike,Vestuário,2,3420.32
-38,2023-08-17,Cadeira Gamer,Móveis,2,63.48
-39,2023-05-26,Cadeira Gamer,Móveis,3,2593.49
-40,2023-11-28,Tênis Nike,Vestuário,1,4048.77
-41,2023-07-06,Copo Térmico,Utilidades,3,3069.24
-42,2023-06-20,Teclado Mecânico,Acessórios,2,4963.89
-43,2023-03-14,Teclado Mecânico,Acessórios,4,4139.72
-44,2023-08-01,Smartphone Samsung,Eletrônicos,5,432.79
-45,2023-11-27,Cadeira Gamer,Móveis,2,4499.47
-46,2023-07-02,Livro Python,Livros,1,2443.25
-47,2023-09-11,Livro Python,Livros,5,3790.17
-48,2023-02-22,Smartphone Samsung,Eletrônicos,2,1365.86
-49,2023-10-01,Copo Térmico,Utilidades,2,3654.47
-50,2023-12-05,Cadeira Gamer,Móveis,5,3616.97
-51,2023-01-28,Copo Térmico,Utilidades,2,1574.1
-52,2023-01-22,Copo Térmico,Utilidades,3,4082.36
-53,2023-01-03,Teclado Mecânico,Acessórios,5,3765.07
-54,2023-09-01,Notebook Dell,Eletrônicos,2,4273.54
-55,2023-01-29,Mouse Logitech,Acessórios,2,2597.75
-56,2023-09-13,Fone de Ouvido JBL,Acessórios,3,1641.27
-57,2023-11-06,Monitor LG,Eletrônicos,1,4502.24
-58,2023-10-20,Cadeira Gamer,Móveis,2,3439.84
-59,2023-05-13,Cadeira Gamer,Móveis,2,2644.22
-60,2023-07-31,Livro Python,Livros,1,1451.52
-61,2023-09-06,Teclado Mecânico,Acessórios,2,2791.62
-62,2023-03-05,Smartphone Samsung,Eletrônicos,5,126.97
-63,2023-05-16,Tênis Nike,Vestuário,3,2860.16
-64,2023-04-17,Livro Python,Livros,1,233.88
-65,2023-06-06,Teclado Mecânico,Acessórios,4,601.77
-66,2023-08-08,Cadeira Gamer,Móveis,2,1975.06
-67,2023-02-05,Cadeira Gamer,Móveis,1,4772.37
-68,2023-09-20,Mouse Logitech,Acessórios,4,3028.48
-69,2023-11-19,Tênis Nike,Vestuário,2,974.07
-70,2023-10-27,Teclado Mecânico,Acessórios,1,1073.68
-71,2023-04-25,Cadeira Gamer,Móveis,2,2820.93
-72,2023-04-26,Livro Python,Livros,5,3625.94
-73,2023-11-25,Mouse Logitech,Acessórios,5,2755.78
-74,2023-05-13,Mouse Logitech,Acessórios,2,563.32
-75,2023-05-28,Tênis Nike,Vestuário,5,4140.0
-76,2023-02-01,Fone de Ouvido JBL,Acessórios,5,3846.1
-77,2023-03-11,Copo Térmico,Utilidades,1,1206.94
-78,2023-03-16,Teclado Mecânico,Acessórios,3,3159.46
-79,2023-01-07,Notebook Dell,Eletrônicos,1,37.83
-80,2023-05-10,Teclado Mecânico,Acessórios,2,594.27
-81,2023-08-11,Notebook Dell,Eletrônicos,1,2808.92
-82,2023-02-26,Fone de Ouvido JBL,Acessórios,3,4396.71
-83,2023-04-19,Mouse Logitech,Acessórios,3,380.23
-84,2023-11-27,Cadeira Gamer,Móveis,2,971.17
-85,2023-06-02,Notebook Dell,Eletrônicos,3,435.67
-86,2023-05-26,Monitor LG,Eletrônicos,5,3006.3
-87,2023-02-08,Cadeira Gamer,Móveis,3,1934.36
-88,2023-06-25,Notebook Dell,Eletrônicos,1,3580.98
-89,2023-08-10,Fone de Ouvido JBL,Acessórios,1,1724.0
-90,2023-12-25,Tênis Nike,Vestuário,4,1888.27
-91,2023-06-21,Mouse Logitech,Acessórios,5,251.46
-92,2023-04-30,Tênis Nike,Vestuário,2,144.79
-93,2023-02-07,Tênis Nike,Vestuário,1,4728.69
-94,2023-01-08,Fone de Ouvido JBL,Acessórios,5,2291.71
-95,2023-08-27,Fone de Ouvido JBL,Acessórios,1,4988.72
-96,2023-09-24,Tênis Nike,Vestuário,4,705.89
-97,2023-02-15,Copo Térmico,Utilidades,5,3022.24
-98,2023-04-14,Cadeira Gamer,Móveis,2,3986.99
-99,2023-06-26,Smartphone Samsung,Eletrônicos,2,1494.32
-100,2023-12-17,Notebook Dell,Eletrônicos,1,4533.41
+1,2025-06-16,Cadeira Gamer,Móveis,5,3247.4
+2,2025-04-27,Copo Térmico,Utilidades,4,4170.48
+3,2025-08-22,Notebook Dell,Eletrônicos,4,2123.19
+4,2025-02-24,Fone de Ouvido JBL,Acessórios,1,3775.43
+5,2024-03-31,Monitor LG,Eletrônicos,1,3635.61
+6,2024-09-07,Livro Python,Livros,1,3207.38
+7,2025-12-10,Livro Python,Livros,4,3523.29
+8,2023-10-13,Notebook Dell,Eletrônicos,1,3362.78
+9,2024-12-01,Copo Térmico,Utilidades,4,2914.28
+10,2023-09-04,Mouse Logitech,Acessórios,2,3796.16
+11,2023-05-06,Notebook Dell,Eletrônicos,4,1188.28
+12,2024-11-08,Notebook Dell,Eletrônicos,2,4808.56
+13,2024-04-02,Smartphone Samsung,Eletrônicos,1,980.04
+14,2024-02-26,Fone de Ouvido JBL,Acessórios,2,1175.72
+15,2024-01-25,Teclado Mecânico,Acessórios,5,546.87
+16,2023-09-17,Notebook Dell,Eletrônicos,1,2963.07
+17,2025-12-26,Notebook Dell,Eletrônicos,1,1195.29
+18,2023-04-23,Smartphone Samsung,Eletrônicos,1,2297.18
+19,2023-03-07,Mouse Logitech,Acessórios,4,3500.77
+20,2024-03-11,Monitor LG,Eletrônicos,2,3804.66
+21,2023-06-09,Teclado Mecânico,Acessórios,2,2872.11
+22,2025-02-06,Livro Python,Livros,3,4850.59
+23,2025-05-30,Notebook Dell,Eletrônicos,4,2690.91
+24,2024-06-29,Teclado Mecânico,Acessórios,2,2778.59
+25,2024-03-29,Notebook Dell,Eletrônicos,2,533.88
+26,2024-03-08,Livro Python,Livros,3,82.81
+27,2024-09-23,Tênis Nike,Vestuário,2,498.21
+28,2025-03-26,Mouse Logitech,Acessórios,4,3569.24
+29,2024-09-18,Tênis Nike,Vestuário,1,2080.76
+30,2023-02-22,Copo Térmico,Utilidades,1,2474.12
+31,2024-06-13,Livro Python,Livros,1,4220.23
+32,2023-03-27,Tênis Nike,Vestuário,4,3284.65
+33,2025-03-29,Fone de Ouvido JBL,Acessórios,5,4751.52
+34,2024-05-29,Teclado Mecânico,Acessórios,5,1903.65
+35,2023-07-11,Fone de Ouvido JBL,Acessórios,4,1684.62
+36,2025-08-12,Mouse Logitech,Acessórios,5,1163.11
+37,2024-02-26,Tênis Nike,Vestuário,1,1732.93
+38,2024-09-05,Smartphone Samsung,Eletrônicos,5,1461.31
+39,2024-12-30,Monitor LG,Eletrônicos,2,2922.01
+40,2025-08-26,Tênis Nike,Vestuário,2,1378.68
+41,2025-03-25,Monitor LG,Eletrônicos,1,163.98
+42,2023-10-19,Teclado Mecânico,Acessórios,2,2002.88
+43,2023-06-15,Tênis Nike,Vestuário,1,2801.83
+44,2023-12-22,Monitor LG,Eletrônicos,3,1753.37
+45,2024-12-25,Copo Térmico,Utilidades,1,2457.56
+46,2023-05-06,Teclado Mecânico,Acessórios,5,1039.81
+47,2025-01-26,Fone de Ouvido JBL,Acessórios,2,1799.24
+48,2025-05-10,Fone de Ouvido JBL,Acessórios,2,3418.31
+49,2023-08-04,Smartphone Samsung,Eletrônicos,5,1178.97
+50,2025-08-07,Tênis Nike,Vestuário,4,969.53
+51,2024-04-07,Tênis Nike,Vestuário,1,780.6
+52,2024-11-18,Smartphone Samsung,Eletrônicos,1,1850.13
+53,2024-09-16,Teclado Mecânico,Acessórios,5,1728.8
+54,2025-06-17,Smartphone Samsung,Eletrônicos,3,3885.84
+55,2025-08-26,Monitor LG,Eletrônicos,1,3355.65
+56,2023-10-21,Copo Térmico,Utilidades,2,49.26
+57,2025-01-10,Copo Térmico,Utilidades,4,4857.7
+58,2024-04-25,Cadeira Gamer,Móveis,4,2690.1
+59,2023-10-31,Fone de Ouvido JBL,Acessórios,5,2424.1
+60,2024-04-26,Copo Térmico,Utilidades,2,2496.15
+61,2024-04-10,Teclado Mecânico,Acessórios,5,4824.38
+62,2025-11-30,Copo Térmico,Utilidades,2,1237.44
+63,2023-04-29,Copo Térmico,Utilidades,3,2436.0
+64,2025-07-01,Livro Python,Livros,3,624.78
+65,2023-08-03,Cadeira Gamer,Móveis,5,4135.07
+66,2025-08-05,Teclado Mecânico,Acessórios,4,1763.31
+67,2023-01-06,Teclado Mecânico,Acessórios,1,3864.59
+68,2024-02-17,Livro Python,Livros,4,3348.05
+69,2023-07-17,Fone de Ouvido JBL,Acessórios,5,2563.79
+70,2024-07-14,Livro Python,Livros,5,1702.81
+71,2025-04-15,Teclado Mecânico,Acessórios,2,1057.23
+72,2024-05-24,Notebook Dell,Eletrônicos,3,2782.23
+73,2024-06-10,Teclado Mecânico,Acessórios,1,4740.32
+74,2025-09-28,Cadeira Gamer,Móveis,1,1614.09
+75,2025-10-05,Tênis Nike,Vestuário,2,249.92
+76,2023-07-02,Teclado Mecânico,Acessórios,2,1328.27
+77,2025-04-13,Monitor LG,Eletrônicos,3,3631.58
+78,2025-07-19,Monitor LG,Eletrônicos,4,3135.82
+79,2023-02-16,Copo Térmico,Utilidades,1,115.28
+80,2024-05-09,Livro Python,Livros,3,4941.09
+81,2023-05-30,Notebook Dell,Eletrônicos,3,3237.57
+82,2025-05-07,Cadeira Gamer,Móveis,5,3871.56
+83,2025-03-18,Notebook Dell,Eletrônicos,4,708.34
+84,2025-05-24,Cadeira Gamer,Móveis,2,878.42
+85,2025-03-10,Monitor LG,Eletrônicos,3,871.32
+86,2024-07-22,Cadeira Gamer,Móveis,5,3338.42
+87,2023-07-28,Cadeira Gamer,Móveis,1,1052.38
+88,2023-09-11,Tênis Nike,Vestuário,2,1431.58
+89,2024-02-25,Fone de Ouvido JBL,Acessórios,5,1416.91
+90,2023-11-12,Smartphone Samsung,Eletrônicos,3,2313.37
+91,2023-09-14,Fone de Ouvido JBL,Acessórios,2,488.86
+92,2024-08-01,Smartphone Samsung,Eletrônicos,2,3884.35
+93,2024-10-29,Tênis Nike,Vestuário,3,1756.71
+94,2023-10-16,Monitor LG,Eletrônicos,1,4749.16
+95,2024-03-21,Monitor LG,Eletrônicos,4,3030.08
+96,2024-03-06,Monitor LG,Eletrônicos,3,4827.35
+97,2025-02-19,Livro Python,Livros,5,299.24
+98,2025-03-05,Tênis Nike,Vestuário,5,2281.4
+99,2024-07-16,Tênis Nike,Vestuário,1,514.49
+100,2025-07-06,Mouse Logitech,Acessórios,2,4979.5
+101,2023-12-19,Monitor LG,Eletrônicos,4,1788.26
+102,2025-07-25,Cadeira Gamer,Móveis,3,1546.6
+103,2025-11-29,Tênis Nike,Vestuário,4,3727.43
+104,2025-08-18,Cadeira Gamer,Móveis,4,2079.73
+105,2023-04-01,Cadeira Gamer,Móveis,3,2858.1
+106,2024-10-09,Livro Python,Livros,2,4744.22
+107,2023-11-03,Livro Python,Livros,2,531.86
+108,2024-11-27,Teclado Mecânico,Acessórios,3,1827.22
+109,2023-02-21,Livro Python,Livros,1,799.09
+110,2024-05-10,Tênis Nike,Vestuário,4,2429.64
+111,2024-10-10,Teclado Mecânico,Acessórios,4,231.51
+112,2025-12-30,Livro Python,Livros,3,4740.03
+113,2025-05-13,Monitor LG,Eletrônicos,2,2916.36
+114,2025-07-10,Livro Python,Livros,4,2965.57
+115,2023-10-03,Teclado Mecânico,Acessórios,5,567.17
+116,2024-05-27,Livro Python,Livros,1,87.26
+117,2024-04-10,Notebook Dell,Eletrônicos,4,673.38
+118,2023-08-14,Fone de Ouvido JBL,Acessórios,4,443.75
+119,2025-09-03,Copo Térmico,Utilidades,4,2462.16
+120,2023-12-18,Cadeira Gamer,Móveis,5,4359.71
+121,2023-11-30,Teclado Mecânico,Acessórios,2,4426.25
+122,2023-08-21,Livro Python,Livros,1,4062.28
+123,2024-06-18,Notebook Dell,Eletrônicos,2,727.39
+124,2023-07-28,Livro Python,Livros,4,4104.85
+125,2025-02-02,Cadeira Gamer,Móveis,1,982.6
+126,2025-04-02,Notebook Dell,Eletrônicos,5,2145.69
+127,2025-07-09,Notebook Dell,Eletrônicos,5,3880.38
+128,2023-12-20,Notebook Dell,Eletrônicos,4,3760.33
+129,2023-03-11,Cadeira Gamer,Móveis,4,2907.17
+130,2025-05-29,Smartphone Samsung,Eletrônicos,2,1519.27
+131,2024-11-06,Cadeira Gamer,Móveis,5,2860.62
+132,2024-02-10,Cadeira Gamer,Móveis,3,3707.5
+133,2024-09-22,Tênis Nike,Vestuário,2,3319.54
+134,2024-03-22,Teclado Mecânico,Acessórios,3,1973.29
+135,2023-08-02,Copo Térmico,Utilidades,2,2448.73
+136,2023-03-31,Notebook Dell,Eletrônicos,5,3246.4
+137,2025-07-18,Cadeira Gamer,Móveis,4,1428.25
+138,2025-08-10,Monitor LG,Eletrônicos,2,3497.12
+139,2023-07-24,Fone de Ouvido JBL,Acessórios,5,4484.98
+140,2024-03-28,Copo Térmico,Utilidades,1,604.19
+141,2024-07-26,Copo Térmico,Utilidades,4,2869.5
+142,2025-06-17,Smartphone Samsung,Eletrônicos,2,2151.98
+143,2024-06-29,Livro Python,Livros,1,559.46
+144,2025-05-06,Copo Térmico,Utilidades,4,726.81
+145,2024-08-19,Teclado Mecânico,Acessórios,2,3737.53
+146,2025-12-07,Smartphone Samsung,Eletrônicos,5,1476.39
+147,2025-02-26,Smartphone Samsung,Eletrônicos,4,3720.7
+148,2024-04-13,Fone de Ouvido JBL,Acessórios,1,4896.86
+149,2023-10-31,Tênis Nike,Vestuário,3,2179.52
+150,2025-05-06,Monitor LG,Eletrônicos,2,1120.75
+151,2023-07-25,Monitor LG,Eletrônicos,2,1165.15
+152,2023-10-10,Monitor LG,Eletrônicos,4,1269.54
+153,2024-02-14,Copo Térmico,Utilidades,1,3166.07
+154,2023-09-20,Teclado Mecânico,Acessórios,3,2308.91
+155,2025-12-11,Smartphone Samsung,Eletrônicos,4,4248.82
+156,2023-08-07,Fone de Ouvido JBL,Acessórios,2,1875.14
+157,2023-10-31,Cadeira Gamer,Móveis,3,616.35
+158,2024-05-27,Livro Python,Livros,4,1298.3
+159,2024-08-31,Teclado Mecânico,Acessórios,1,3661.87
+160,2023-09-05,Notebook Dell,Eletrônicos,3,1805.04
+161,2023-07-05,Smartphone Samsung,Eletrônicos,4,1105.95
+162,2025-09-02,Fone de Ouvido JBL,Acessórios,5,2007.92
+163,2024-10-11,Mouse Logitech,Acessórios,2,2883.26
+164,2025-03-03,Notebook Dell,Eletrônicos,2,3802.48
+165,2023-04-01,Livro Python,Livros,5,1277.54
+166,2024-04-10,Tênis Nike,Vestuário,2,908.22
+167,2024-09-28,Notebook Dell,Eletrônicos,4,4694.83
+168,2024-12-13,Smartphone Samsung,Eletrônicos,2,4061.53
+169,2024-11-03,Smartphone Samsung,Eletrônicos,3,3015.49
+170,2023-09-20,Fone de Ouvido JBL,Acessórios,2,211.84
+171,2025-09-10,Tênis Nike,Vestuário,2,2819.05
+172,2024-06-09,Livro Python,Livros,5,2910.36
+173,2025-09-30,Copo Térmico,Utilidades,1,3251.34
+174,2025-11-27,Teclado Mecânico,Acessórios,5,4360.95
+175,2023-04-17,Cadeira Gamer,Móveis,5,2830.54
+176,2023-08-24,Monitor LG,Eletrônicos,2,1645.41
+177,2023-03-27,Monitor LG,Eletrônicos,5,212.21
+178,2024-01-04,Monitor LG,Eletrônicos,1,4689.01
+179,2025-02-19,Notebook Dell,Eletrônicos,1,1230.34
+180,2023-10-23,Mouse Logitech,Acessórios,2,1259.98
+181,2023-11-19,Mouse Logitech,Acessórios,1,986.08
+182,2024-09-15,Copo Térmico,Utilidades,2,3022.8
+183,2023-02-21,Copo Térmico,Utilidades,2,3298.86
+184,2024-01-06,Tênis Nike,Vestuário,5,4226.16
+185,2025-02-05,Tênis Nike,Vestuário,5,546.84
+186,2024-07-03,Cadeira Gamer,Móveis,4,3941.59
+187,2025-05-08,Copo Térmico,Utilidades,5,4778.85
+188,2023-11-10,Mouse Logitech,Acessórios,1,838.79
+189,2025-11-23,Notebook Dell,Eletrônicos,1,4374.76
+190,2024-02-09,Fone de Ouvido JBL,Acessórios,5,3782.51
+191,2025-05-31,Monitor LG,Eletrônicos,2,276.57
+192,2025-10-01,Cadeira Gamer,Móveis,5,2471.34
+193,2025-06-07,Tênis Nike,Vestuário,2,1975.41
+194,2024-10-31,Teclado Mecânico,Acessórios,4,99.92
+195,2025-10-15,Copo Térmico,Utilidades,5,4647.32
+196,2024-06-03,Notebook Dell,Eletrônicos,4,1708.05
+197,2023-07-03,Tênis Nike,Vestuário,4,3108.9
+198,2023-10-30,Tênis Nike,Vestuário,4,4445.94
+199,2023-06-17,Cadeira Gamer,Móveis,2,2292.85
+200,2025-08-02,Teclado Mecânico,Acessórios,2,4388.52
+201,2023-08-29,Notebook Dell,Eletrônicos,5,612.29
+202,2023-07-15,Mouse Logitech,Acessórios,3,1948.62
+203,2024-09-20,Notebook Dell,Eletrônicos,1,4845.58
+204,2024-03-22,Monitor LG,Eletrônicos,3,4429.05
+205,2024-04-11,Teclado Mecânico,Acessórios,4,1061.47
+206,2025-03-10,Cadeira Gamer,Móveis,3,2537.17
+207,2024-10-20,Fone de Ouvido JBL,Acessórios,4,4934.87
+208,2025-01-07,Smartphone Samsung,Eletrônicos,4,1170.75
+209,2023-11-23,Smartphone Samsung,Eletrônicos,5,4262.93
+210,2024-02-17,Fone de Ouvido JBL,Acessórios,2,352.9
+211,2024-11-14,Smartphone Samsung,Eletrônicos,5,4677.14
+212,2025-11-05,Fone de Ouvido JBL,Acessórios,4,282.81
+213,2025-02-09,Livro Python,Livros,4,4355.39
+214,2024-01-13,Mouse Logitech,Acessórios,4,4204.2
+215,2023-06-30,Mouse Logitech,Acessórios,5,4994.35
+216,2023-11-20,Smartphone Samsung,Eletrônicos,1,1815.86
+217,2024-11-18,Smartphone Samsung,Eletrônicos,3,1530.36
+218,2024-07-21,Smartphone Samsung,Eletrônicos,1,2538.78
+219,2023-04-13,Notebook Dell,Eletrônicos,5,1797.43
+220,2023-11-07,Monitor LG,Eletrônicos,2,1067.66
+221,2025-02-28,Fone de Ouvido JBL,Acessórios,2,3473.76
+222,2024-07-06,Fone de Ouvido JBL,Acessórios,4,3264.61
+223,2023-03-09,Mouse Logitech,Acessórios,3,466.41
+224,2025-02-19,Mouse Logitech,Acessórios,3,2886.0
+225,2023-07-20,Cadeira Gamer,Móveis,1,364.56
+226,2024-03-01,Cadeira Gamer,Móveis,5,1573.09
+227,2024-02-07,Monitor LG,Eletrônicos,4,2421.69
+228,2025-11-28,Notebook Dell,Eletrônicos,4,2124.83
+229,2024-02-16,Notebook Dell,Eletrônicos,4,2909.85
+230,2025-06-29,Tênis Nike,Vestuário,2,782.7
+231,2023-12-04,Teclado Mecânico,Acessórios,1,3178.57
+232,2023-10-23,Copo Térmico,Utilidades,4,1245.44
+233,2023-03-13,Mouse Logitech,Acessórios,2,3826.27
+234,2025-08-20,Cadeira Gamer,Móveis,5,3974.03
+235,2025-12-18,Copo Térmico,Utilidades,2,1754.13
+236,2025-10-05,Copo Térmico,Utilidades,1,3041.73
+237,2024-03-07,Notebook Dell,Eletrônicos,2,2338.78
+238,2024-09-28,Livro Python,Livros,4,2004.83
+239,2023-11-30,Tênis Nike,Vestuário,4,946.47
+240,2024-01-13,Monitor LG,Eletrônicos,5,3210.44
+241,2024-12-24,Monitor LG,Eletrônicos,2,4663.09
+242,2024-05-25,Livro Python,Livros,1,707.22
+243,2023-04-04,Mouse Logitech,Acessórios,4,4971.53
+244,2023-06-18,Teclado Mecânico,Acessórios,3,4540.96
+245,2024-03-24,Cadeira Gamer,Móveis,3,227.04
+246,2025-09-28,Notebook Dell,Eletrônicos,4,587.37
+247,2024-03-04,Smartphone Samsung,Eletrônicos,4,3540.1
+248,2023-04-08,Fone de Ouvido JBL,Acessórios,2,1795.79
+249,2025-08-21,Mouse Logitech,Acessórios,3,478.13
+250,2024-10-23,Copo Térmico,Utilidades,1,2322.54
+251,2024-09-23,Teclado Mecânico,Acessórios,2,1951.3
+252,2024-04-27,Tênis Nike,Vestuário,5,4642.37
+253,2024-04-18,Notebook Dell,Eletrônicos,2,99.97
+254,2023-06-07,Fone de Ouvido JBL,Acessórios,4,1568.4
+255,2023-02-04,Notebook Dell,Eletrônicos,3,1205.21
+256,2025-12-30,Teclado Mecânico,Acessórios,4,275.54
+257,2023-12-12,Fone de Ouvido JBL,Acessórios,3,2344.71
+258,2023-03-15,Smartphone Samsung,Eletrônicos,2,2375.63
+259,2025-07-24,Cadeira Gamer,Móveis,3,4205.5
+260,2024-11-01,Copo Térmico,Utilidades,3,1123.7
+261,2023-12-08,Mouse Logitech,Acessórios,1,4733.17
+262,2025-09-27,Fone de Ouvido JBL,Acessórios,5,1166.59
+263,2023-01-29,Tênis Nike,Vestuário,2,2499.86
+264,2023-02-14,Mouse Logitech,Acessórios,2,559.3
+265,2025-12-11,Cadeira Gamer,Móveis,3,1008.52
+266,2023-10-22,Livro Python,Livros,2,3595.59
+267,2025-05-23,Cadeira Gamer,Móveis,1,2300.85
+268,2023-06-05,Tênis Nike,Vestuário,4,4352.59
+269,2025-09-20,Teclado Mecânico,Acessórios,2,93.87
+270,2025-08-25,Monitor LG,Eletrônicos,1,4326.41
+271,2024-08-30,Monitor LG,Eletrônicos,4,458.8
+272,2025-07-21,Livro Python,Livros,1,2287.86
+273,2024-11-20,Smartphone Samsung,Eletrônicos,3,4117.61
+274,2025-10-14,Tênis Nike,Vestuário,2,4486.34
+275,2025-05-03,Tênis Nike,Vestuário,4,3818.23
+276,2025-08-28,Cadeira Gamer,Móveis,2,635.71
+277,2023-12-18,Fone de Ouvido JBL,Acessórios,5,3723.62
+278,2023-08-03,Smartphone Samsung,Eletrônicos,5,4392.48
+279,2024-02-14,Cadeira Gamer,Móveis,4,3280.16
+280,2025-08-03,Copo Térmico,Utilidades,4,1431.48
+281,2023-03-08,Livro Python,Livros,5,1420.84
+282,2025-02-08,Cadeira Gamer,Móveis,5,3146.39
+283,2024-08-20,Teclado Mecânico,Acessórios,5,1891.35
+284,2025-06-15,Fone de Ouvido JBL,Acessórios,4,2298.8
+285,2024-12-21,Copo Térmico,Utilidades,1,2898.56
+286,2024-03-03,Livro Python,Livros,1,3769.27
+287,2024-01-04,Fone de Ouvido JBL,Acessórios,4,2728.27
+288,2024-05-22,Mouse Logitech,Acessórios,1,2173.2
+289,2024-11-10,Smartphone Samsung,Eletrônicos,2,4972.12
+290,2024-02-05,Copo Térmico,Utilidades,4,4053.68
+291,2024-03-27,Fone de Ouvido JBL,Acessórios,2,2923.75
+292,2023-07-27,Teclado Mecânico,Acessórios,4,1035.38
+293,2025-11-19,Cadeira Gamer,Móveis,2,2601.4
+294,2023-10-01,Livro Python,Livros,2,1668.54
+295,2024-02-28,Smartphone Samsung,Eletrônicos,3,654.72
+296,2025-12-09,Livro Python,Livros,2,1951.94
+297,2025-12-15,Mouse Logitech,Acessórios,2,2820.28
+298,2025-09-15,Fone de Ouvido JBL,Acessórios,1,4440.37
+299,2025-10-22,Smartphone Samsung,Eletrônicos,4,1350.48
+300,2025-11-27,Tênis Nike,Vestuário,1,1998.09
