@@ -60,4 +60,4 @@ Consequentemente, o script limpeza_dataset.py sobrescreveu o data_clean.csv com 
 
 
 ## Apresentação em Vídeo
-## A gravação explicando o projeto pode ser acessada em  [Video](video/video.md)
+## A gravação explicando o projeto pode ser acessada em [Youtube](https://youtu.be/ujBTeluvPyA)
