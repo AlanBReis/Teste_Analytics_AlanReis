@@ -48,3 +48,13 @@ python scripts/analise_vendas.py       # cálculos de vendas e produto mais vend
 
 
 ![grafico - power bi](/images/grafico-powerbi.jpg)
+
+
+# 2. SQL
+Nesta etapa, as consultas foram elaboradas com base no arquivo data_clean.csv.
+
+## Observação sobre o Dataset:
+Para atender ao requisito de identificar vendas de junho de 2024, o script gerar_dataset.py foi ajustado para simular dados de 01/01/2023 a 31/12/2025.
+
+Consequentemente, o script limpeza_dataset.py sobrescreveu o data_clean.csv com o dataset completo.
+
