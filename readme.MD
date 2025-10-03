@@ -58,3 +58,6 @@ Para atender ao requisito de identificar vendas de junho de 2024, o script gerar
 
 Consequentemente, o script limpeza_dataset.py sobrescreveu o data_clean.csv com o dataset completo.
 
+
+## Apresentação em Vídeo
+## A gravação explicando o projeto pode ser acessada em  [Video](video/video.md)
