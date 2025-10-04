@@ -1,5 +1,8 @@
 # Teste Analytics - Alan Borges dos Reis
 
+Este projeto tem o objetivo de simular um processo de análise de dados de vendas, criando um dataset fictício, realizando o tratamento e limpeza dos dados, análises com gráficos em power bi, consultas em SQL e elaboração de insights.  
+A ideia é mostrar na prática o ciclo de trabalho com dados, como a criação e preparação das informações e a interpretação de resultados que podem apoiar decisões de negócio.
+
 ## Estrutura do projeto
 - **data/**: CSVs gerados
   - `data_raw.csv`
